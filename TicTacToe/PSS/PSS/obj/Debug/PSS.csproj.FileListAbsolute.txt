@@ -1,0 +1,9 @@
+H:\PSS\PSS\bin\Debug\PSS.exe.config
+H:\PSS\PSS\bin\Debug\PSS.exe
+H:\PSS\PSS\bin\Debug\PSS.pdb
+H:\PSS\PSS\obj\Debug\PSS.csprojResolveAssemblyReference.cache
+H:\PSS\PSS\obj\Debug\PSS.Form1.resources
+H:\PSS\PSS\obj\Debug\PSS.Properties.Resources.resources
+H:\PSS\PSS\obj\Debug\PSS.csproj.GenerateResource.Cache
+H:\PSS\PSS\obj\Debug\PSS.exe
+H:\PSS\PSS\obj\Debug\PSS.pdb
