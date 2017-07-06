@@ -1,0 +1,9 @@
+H:\TicTacToe\OOXX\bin\Debug\OOXX.exe.config
+H:\TicTacToe\OOXX\bin\Debug\OOXX.exe
+H:\TicTacToe\OOXX\bin\Debug\OOXX.pdb
+H:\TicTacToe\OOXX\obj\Debug\OOXX.csprojResolveAssemblyReference.cache
+H:\TicTacToe\OOXX\obj\Debug\OOXX.Form1.resources
+H:\TicTacToe\OOXX\obj\Debug\OOXX.Properties.Resources.resources
+H:\TicTacToe\OOXX\obj\Debug\OOXX.csproj.GenerateResource.Cache
+H:\TicTacToe\OOXX\obj\Debug\OOXX.exe
+H:\TicTacToe\OOXX\obj\Debug\OOXX.pdb
